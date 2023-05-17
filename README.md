@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### William Ulises Gonzalez Diaz
 **Ing Informatica**
 
-*Semestre 3*
+*Tercer semestre*
 
 ![Imagen](https://www.ui1.es/sites/default/files/blog/images/ingenieria-informatica.jpg)
 
