@@ -17,19 +17,9 @@ Here are some ideas to get you started:
 ### William Ulises Gonzalez Diaz
 **Ing Informatica**
 
-*Tercer semestre*
+*Cuarto semestre*
 
 ![Imagen](https://www.ui1.es/sites/default/files/blog/images/ingenieria-informatica.jpg)
-
-> Materias
-
-
-- Probabilidad y Estadistica
-- Programacion orientada objeto
-- Fisica para informatica
-- Algebra Lineal
-- Costos empresarial.
-- Administracion para los recurso para la informatica
 
 
 
